@@ -1,0 +1,25 @@
+.jumbotron {
+    box-shadow: 2px 5px 10px;
+    background-image: url("weather.jpg");
+    background-color: black;
+    color:yellow;
+    
+}
+body {
+    background-image: url("world.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 975px;    
+}
+.row {
+    background-color: black;
+    color: white;
+
+}
+
+button:hover{
+    background-color: blue;
+    border-color: white;
+    color: white;
+}
